@@ -21,7 +21,6 @@ In this example, the HTML code creates a simple webpage that displays your name 
 
 Remember, Markdown is primarily for formatting and displaying text, and it supports HTML code within its documents for enhanced formatting and embedding content.
 ```
-
 When rendered, the Markdown document will display the HTML code along with an explanation of how it works. To see the actual result, you would need to open the HTML code in a web browser or an HTML editor.
 ```
 
