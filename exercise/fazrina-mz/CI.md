@@ -1,7 +1,4 @@
-<p align="center">
-<img  
-   src="https://github.com/fazrina-mz/learn-github/blob/main/images/Github-EN.jpg" height="200" />
-</p>
+
 
 # Digital Logic Course
 
