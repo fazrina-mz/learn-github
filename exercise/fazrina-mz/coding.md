@@ -13,6 +13,7 @@ You can use HTML within Markdown to display your name:
 </html>
 ```
 
+```
 When rendered, the Markdown document will display the HTML code along with an explanation of how it works. To see the actual result, you would need to open the HTML code in a web browser or an HTML editor.
 ```
 
