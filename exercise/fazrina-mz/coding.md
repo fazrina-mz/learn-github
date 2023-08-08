@@ -1,5 +1,3 @@
-Sure! Here's an example of how you can use Markdown to display your name in HTML:
-
 ```markdown
 ## Displaying Your Name using HTML
 
