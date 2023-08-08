@@ -2,7 +2,6 @@
 ## Displaying Your Name using HTML
 
 You can use HTML within Markdown to display your name:
-
 ```html
 <!DOCTYPE html>
 <html>
