@@ -1,4 +1,3 @@
-```markdown
 ## Displaying Your Name using HTML
 
 You can use HTML within Markdown to display your name:
@@ -14,10 +13,6 @@ You can use HTML within Markdown to display your name:
 </html>
 ```
 
-In this example, the HTML code creates a simple webpage that displays your name in blue color using a `span` element.
-
-Remember, Markdown is primarily for formatting and displaying text, and it supports HTML code within its documents for enhanced formatting and embedding content.
-```
 When rendered, the Markdown document will display the HTML code along with an explanation of how it works. To see the actual result, you would need to open the HTML code in a web browser or an HTML editor.
 ```
 
