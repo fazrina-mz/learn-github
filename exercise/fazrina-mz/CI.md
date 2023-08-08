@@ -1,6 +1,6 @@
 <p align="center">
 <img  
-   src="https://github.com/fazrina-mz/learn-github/blob/main/images/Github-EN.jpg" height="200" />
+   src="https://github.com/fazrina-mz/learn-github/blob/main/exercise/fazrina-mz/images/Screenshot%202023-07-04%20162135.png" height="200" />
 </p>
 
 # Digital Logic Course
