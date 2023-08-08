@@ -1,3 +1,8 @@
+<p align="center">
+<img  
+   src=https://github.com/fazrina-mz/learn-github/blob/main/images/Github-EN.jpg" height="200" />
+</p>
+
 # Digital Logic Course
 
 Welcome to the Digital Logic course! In this course, you will learn the fundamental concepts of digital logic design, including binary representation, Boolean algebra, logic gates, combinational and sequential circuits, and more. This course is suitable for beginners and those looking to refresh their knowledge in digital logic.
