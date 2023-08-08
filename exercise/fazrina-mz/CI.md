@@ -5,8 +5,8 @@ Welcome to the Digital Logic course! In this course, you will learn the fundamen
 ## Course Overview
 
 - **Course Name:** Digital Logic
-- **Instructor:** [Your Name]
-- **Course Duration:** [Number of Weeks/Semesters]
+- **Instructor:** Dr. Nurfazrina Mohd Zamry
+- **Course Duration:** [14/Semesters]
 - **Prerequisites:** None (basic understanding of mathematics is recommended)
 - **Level:** Beginner
 
